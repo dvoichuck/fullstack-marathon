@@ -1,0 +1,75 @@
+.first {
+    margin-top: 5px;
+    display: block;
+}
+h1 {
+    background-color: red;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    width: 600px;
+}
+
+#created {
+    border: 2px solid black;
+    width: 600px;
+    /*height: 650px;*/
+    /*display: flex;*/
+    position: absolute;
+    height: 500px;
+}
+
+#fly {
+    width: 600px;
+    height: 20px;
+    background-color: red;
+}
+#fight {
+    width: 600px;
+    height: 20px;
+    background-color: red;
+}
+#superhero {
+    width: 600px;
+    height: 39px;
+    background-color: red;
+}
+#superhero:hover {
+    background-color: green;
+}
+
+#img_div {
+    display: block;
+    width: 400px;
+    height: 300px;
+}
+#img_img {
+    height: 300px;
+    width: 400px;
+    position: relative;
+}
+
+.second {
+    text-align: center;
+    font-weight: bold;
+    width: 600px;
+    height: 40px;
+    background-color: red;
+    color: black;
+}
+
+
+
+#main_div {
+    /*position: absolute;*/
+    display: flex;
+    width: 600px;
+    border: 2px solid black;
+    height: 300px;
+}
+
+#text_div {
+    border: 3px solid grey;
+    padding: 5px;
+    width: 100%;
+    /*margin-left: 5px;*/
+}

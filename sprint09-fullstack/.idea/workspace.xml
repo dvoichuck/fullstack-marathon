@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96ec4e2f-4ffc-4a7c-8666-74453283b00b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/t00/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t00/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t00/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oleg/t00/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/oleg/t00/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oleg/t00/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/oleg/t00/model.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pCYjmpJwJvgV6vpm5tzmHg3RRd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="15.10.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.31" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/t01" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/t01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.db.sql">
+    <configuration name="db.sql (1)" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t01/db.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="7064babc-5f41-4ca7-b5f3-8b0513ed76cf" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t00/db.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="7064babc-5f41-4ca7-b5f3-8b0513ed76cf" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.db.sql" />
+        <item itemvalue="Database Script.db.sql (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96ec4e2f-4ffc-4a7c-8666-74453283b00b" name="Default Changelist" comment="" />
+      <created>1614688676775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614688676775</updated>
+      <workItem from="1614688677850" duration="983000" />
+      <workItem from="1614689795052" duration="6366000" />
+      <workItem from="1614762905834" duration="1175000" />
+      <workItem from="1614766758443" duration="1409000" />
+      <workItem from="1614771027499" duration="2467000" />
+      <workItem from="1614777865779" duration="1611000" />
+      <workItem from="1614786196331" duration="2144000" />
+      <workItem from="1614853055558" duration="2509000" />
+      <workItem from="1614859343853" duration="3454000" />
+      <workItem from="1614869425704" duration="1100000" />
+      <workItem from="1614876457668" duration="1923000" />
+      <workItem from="1614950437354" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614860485921">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="358" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1614860485921" />
+    <state width="1585" height="377" key="GridCell.Tab.0.bottom" timestamp="1614869724514">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1585" height="377" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1614869724514" />
+    <state width="1585" height="377" key="GridCell.Tab.0.center" timestamp="1614869724513">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1585" height="377" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1614869724513" />
+    <state width="1585" height="377" key="GridCell.Tab.0.left" timestamp="1614869724513">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1585" height="377" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1614869724513" />
+    <state width="1585" height="377" key="GridCell.Tab.0.right" timestamp="1614869724514">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1585" height="377" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1614869724514" />
+    <state x="576" y="586" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614869655268">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="576" y="586" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.2560.1337@0.23.2560.1337" timestamp="1614869655268" />
+    <state x="583" y="512" width="460" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1614775268725">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="583" y="512" width="460" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1614775268725" />
+  </component>
+</project>

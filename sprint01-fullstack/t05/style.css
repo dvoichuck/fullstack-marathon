@@ -1,0 +1,46 @@
+div {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+h1 {
+    position: absolute;
+}
+
+form {
+    display: flex;
+    width: 100%;
+}
+
+input {
+    margin-top: 80px;
+    position: relative;
+    height: 2em;
+    color: green;
+}
+
+input[type="text"]::-webkit-input-placeholder {
+    color: green;
+}
+input[type="text"]::-moz-placeholder {
+    color: green;
+}
+
+
+
+button {
+    background-color: rgb(211, 212, 212);
+    margin-top: 83px;
+    position: relative;
+    height: 2em;
+    color: rgb(151, 153, 150);
+    border: none;
+}
+
+input:hover {
+    color: red;
+}
+#search {
+    width: 100%;
+}

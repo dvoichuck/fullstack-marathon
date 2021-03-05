@@ -1,0 +1,31 @@
+th {
+    background-color: red;
+}
+td {
+    width: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: lightgray;
+}
+table {
+    text-align: center;
+    border: 3px solid black;
+    height: 500px;
+}
+
+#placeholder {
+    display: flex;
+    justify-content: center;
+}
+#notification {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgb(128, 128, 128);
+    padding: 5px;
+    border-radius: 25px;
+    text-align: center;
+    width: 250px;
+    height: 15px;
+}
+

@@ -1,0 +1,56 @@
+#header {
+    /*background: linear-gradient(to right, #6e0000, antiquewhite);*/
+    /*background-color: rgba(110, 0, 0, 0.4);*/
+    /*border-collapse: collapse;*/
+}
+
+table {
+    background: linear-gradient(to right, #6e0000, rgb(181, 147, 136));
+    border: 4px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.Name_hero_1 {
+    background: linear-gradient(to right, rgb(88, 23, 16), rgb(117, 59, 49));
+    color: white;
+    font-weight: bold;
+}
+.Name_hero_2 {
+    background: linear-gradient(to right, rgb(106, 45, 37), rgb(130, 80, 72));
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+}
+
+.full {
+    background-color: rgb(115, 33, 22);
+    color: white;
+}
+
+th {
+    border: 2px solid rgba(189, 195, 199, 0.05);
+    background-color: rgba(110, 0, 0, 0.1);
+    color: #ffe369;
+    font-weight: bold;
+    padding: 10px;
+}
+
+td {
+    background-color: rgb(245, 235, 219);
+    border: 2px solid rgba(189, 195, 199, 0.05);
+    color: midnightblue;
+    padding: 5px 50px 5px 50px;
+}
+
+
+#end {
+    background: linear-gradient(to right, #6e0000, antiquewhite);
+}
+
+tr {
+
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Superhero application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Superhero Form</h1>
+    <form action="/" method="post">
+        <fieldset>
+            <legend>About the Superhero</legend>
+            <label><br>Real Name <input required name="name" id="Real_name" type="text" placeholder="Superhero real name" autofocus> Current Alias <input required name="alias" type="text" placeholder="Superhero alias" id="Superhero_name"> Age <input required name="age" type="number" min="1" max="999" step="1"><br></label>
+            <label><br>About<textarea name="description" required placeholder="Information about the superhero, max 500 symbols" maxlength="500" cols="70" rows="5"></textarea><br></label>
+            <label><br>Photo:<input name="photo" type="file"><br><br></label>
+        </fieldset>
+        <fieldset>
+            <legend>Powers</legend>
+            <label><br><input type="checkbox" name="experience"> Telekinesis<input type="checkbox" name="experience"> Super strength or speed <input type="checkbox" name="experience"> Shapeshifting <input type="checkbox" name="experience"> Flight <input type="checkbox" name="experience"> Elemental control <input type="checkbox" name="experience"> Elemental control <input type="checkbox" name="experience"> Other<br></label>
+            <label><br>Level of control: <input type="range" min="0" max="10" step="1" value="1" name="level"><br><br></label>
+        </fieldset>
+        <fieldset>
+            <legend>Origin of Powers</legend>
+            <label><br><input type="radio" name="purpose" value="0"> Unknown <input type="radio" name="purpose" value="1"> Freak lab accident <input type="radio" name="purpose" value="2"> Chosen by an ancient wise being <input type="radio" name="purpose" value="3"> The superhero is not human <input type="radio" name="purpose" value="4"> Other<br><br></label>
+        </fieldset>
+        <label><br><input type="reset" value="CLEAR"><input name="send" type="submit" value="SEND"></label>
+    </form>
+<script type="text/javascript" src="cookie.js"></script>
+</body>
+</html>

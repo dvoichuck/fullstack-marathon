@@ -1,0 +1,50 @@
+img {
+    height: 120px;
+    width: 120px;
+    border-radius: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 2px solid #c6c6c6;
+    padding: 5px;
+}
+
+
+#column_names {
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+
+#Soul {
+    background-color: #d6923d;
+}
+
+#Time {
+    background-color: green;
+}
+
+#Space {
+    background-color: #005792;
+}
+
+#Mind {
+    background-color: #ffff05;
+}
+
+#Reality {
+    background-color: #c12a2e;
+}
+
+#Power {
+    background-color: #8175b7;
+}
+
+#end {
+    border-width: 1px;
+}

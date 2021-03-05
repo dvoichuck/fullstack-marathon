@@ -1,0 +1,30 @@
+li a[href^="https://"]:before {
+    content: '» ';
+    color: blue;
+    padding-right: 10px;
+}
+
+li a[href^="http://"]:before {
+    content: '\00D7';
+    color: #c12a2e;
+    padding-right: 10px;
+}
+
+li a[href^="https://www"]:before {
+    content: '» ';
+    color: green;
+}
+
+li a[href^="https://www"] {
+    color: green;
+}
+li a[target^="_blank"]::after {
+    content: '\21D2';
+    color: coral;
+}
+
+li a[href$="a"]:hover:after {
+    content: "...last symbol is 'a'";
+    color: coral;
+    font-style: italic;
+}

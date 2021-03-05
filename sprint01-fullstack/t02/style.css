@@ -1,0 +1,19 @@
+img {
+    height: 50px;
+    width: 50px;
+}
+#glove {
+    height: 400px;
+    width: 200px;
+}
+
+
+#glove:hover + table .first td:nth-child(odd) {
+    opacity: 0;
+    transition: all 0.5s ease-out;
+}
+
+#glove:hover + table .second td:nth-child(even) {
+    opacity: 0;
+    transition: all 0.5s ease-out;
+}

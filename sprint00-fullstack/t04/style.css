@@ -1,0 +1,62 @@
+#all_block {
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+}
+
+.div_style {
+    position:relative;
+    width: 270px;
+    height: 140px;
+    border-radius: 5%;
+    background-color: black;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+img {
+    transform: scale(0.87);
+    position: absolute;
+    height: 182px;
+    margin-left: 10px;
+}
+
+p {
+    margin-right: 10px;
+    font-family: Verdana, serif;
+    text-align: right;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 10px;
+    font-size: 9px;
+}
+
+
+#Capitan-America {
+    background: linear-gradient(180deg, #4568DC, #B06AB3);
+}
+
+#Iron-Man {
+    background: linear-gradient(135deg, #e52d27, #b31217);
+}
+
+#Black-Widow {
+    background: linear-gradient(60deg, #000, #61045F);
+}
+
+#Spider-man {
+    background: linear-gradient(180deg, #e52d27, #000);
+}
+
+#img_spider-man {
+    margin-top: -11px
+}
+
+.img_hero_party {
+    margin-top: -30.5px;
+}

@@ -1,0 +1,54 @@
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    width: 50px;
+    color: white;
+    height: 730px;
+    font-weight: bold;
+    padding-top: 310px;
+    transition: 0.6s ease;
+    background-color: rgba(191, 183, 183, 0.8);
+    font-size: 2em;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+    background-color: #717171;
+}
+img {
+    width: 100%;
+    height:  730px;
+}

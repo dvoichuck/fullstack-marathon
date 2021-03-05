@@ -1,0 +1,33 @@
+#main_div {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+span {
+    text-align: center;
+}
+
+.data {
+    background-color: rgb(54, 110, 128);
+    color: white;
+    font-family: Lato, serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.temp {
+    font-family: Lato, serif;
+    font-weight: 400;
+    font-size: 2em;
+    color: black;
+}
+
+.weather_div {
+    display: flex;
+    flex-direction: column;
+}
+
+.weather_div:hover {
+    box-shadow: 0 0 20px -1px #323238;
+}

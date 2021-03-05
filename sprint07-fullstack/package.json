@@ -1,0 +1,7 @@
+{
+  "name": "sprint07-fullstack",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}

@@ -1,0 +1,17 @@
+form {
+    display: grid;
+    grid-template-columns: 1fr 50px;
+}
+input {
+    height: 2em;
+    color: green;
+}
+input:hover {
+    color: red;
+}
+#search {
+    border-radius: 5px;
+    border-color: blue;
+    width: 100%;
+    padding-left: 10px;
+}

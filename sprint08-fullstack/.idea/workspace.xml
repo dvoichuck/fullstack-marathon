@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f90736b0-a63c-4d10-99df-2f38cc2ff5b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/t02/extended.sql" beforeDir="false" afterPath="$PROJECT_DIR$/t02/extended.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t04/avangers.sql" beforeDir="false" afterPath="$PROJECT_DIR$/t04/avangers.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p48QEcyVe4nOprUVh3oUQfHpcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/t02" />
+      <recent name="$PROJECT_DIR$/t01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.extended.sql">
+    <configuration name="data.sql (1)" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t02/data.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fbc3bda8-9a7d-48df-82ad-4575fa87c8be" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t01/data.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fbc3bda8-9a7d-48df-82ad-4575fa87c8be" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extended.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t02/extended.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="d875cd8e-5f75-432b-b7bb-f064d2670aa6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="join.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t03/join.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fbc3bda8-9a7d-48df-82ad-4575fa87c8be" />
+      <method v="2" />
+    </configuration>
+    <configuration name="table.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/t01/table.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fbc3bda8-9a7d-48df-82ad-4575fa87c8be" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.extended.sql" />
+        <item itemvalue="Database Script.data.sql (1)" />
+        <item itemvalue="Database Script.join.sql" />
+        <item itemvalue="Database Script.data.sql" />
+        <item itemvalue="Database Script.table.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f90736b0-a63c-4d10-99df-2f38cc2ff5b2" name="Default Changelist" comment="" />
+      <created>1614430983343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614430983343</updated>
+      <workItem from="1614430984404" duration="2444000" />
+      <workItem from="1614438061706" duration="2927000" />
+      <workItem from="1614441540901" duration="17000" />
+      <workItem from="1614441567721" duration="675000" />
+      <workItem from="1614521753959" duration="2093000" />
+      <workItem from="1614528629695" duration="7286000" />
+      <workItem from="1614598514933" duration="196000" />
+      <workItem from="1614598715545" duration="293000" />
+      <workItem from="1614599013604" duration="1360000" />
+      <workItem from="1614604533124" duration="343000" />
+      <workItem from="1614688603915" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="377" key="#Inspections" timestamp="1614598759308">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="914" y="377" key="#Inspections/0.23.2560.1337@0.23.2560.1337" timestamp="1614598759308" />
+    <state x="657" y="522" key="#SQL_Dialects" timestamp="1614598961015">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="657" y="522" key="#SQL_Dialects/0.23.2560.1337@0.23.2560.1337" timestamp="1614598961015" />
+    <state x="880" y="357" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614599052127">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="880" y="357" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1614599052127" />
+    <state width="1272" height="377" key="GridCell.Tab.0.bottom" timestamp="1614535054101">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1272" height="377" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1614535054101" />
+    <state width="1272" height="377" key="GridCell.Tab.0.center" timestamp="1614535054100">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1272" height="377" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1614535054100" />
+    <state width="1272" height="377" key="GridCell.Tab.0.left" timestamp="1614535054100">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1272" height="377" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1614535054100" />
+    <state width="1272" height="377" key="GridCell.Tab.0.right" timestamp="1614535054101">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="1272" height="377" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1614535054101" />
+    <state width="236" height="539" key="HiddenNamespacesPopup" timestamp="1614598928529">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="236" height="539" key="HiddenNamespacesPopup/0.23.2560.1337@0.23.2560.1337" timestamp="1614598928529" />
+    <state x="124" y="331" key="SettingsEditor" timestamp="1614441463529">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="124" y="331" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1614441463529" />
+    <state x="1186" y="586" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1614534675945">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1186" y="586" width="332" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.2560.1337@0.23.2560.1337" timestamp="1614534675945" />
+    <state x="659" y="512" width="460" height="357" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1614529829492">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="659" y="512" width="460" height="357" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1614529829492" />
+    <state x="278" y="327" width="672" height="678" key="search.everywhere.popup" timestamp="1614528900778">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="278" y="327" width="672" height="678" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1614528900778" />
+  </component>
+</project>

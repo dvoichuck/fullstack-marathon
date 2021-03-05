@@ -1,0 +1,10 @@
+img {
+    float: left;
+    margin: 7px 7px 7px 7px;
+}
+@media print {
+    .block {
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,12 @@
+form {
+    border: 2px solid grey;
+    padding: 20px;
+}
+
+#Real_name {
+    width: 110px;
+}
+
+#Superhero_name {
+    width: 100px;
+}

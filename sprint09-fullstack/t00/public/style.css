@@ -1,0 +1,49 @@
+
+body {
+    /*text-align: center;*/
+    background-color: orange;
+}
+
+#correct {
+    color: green;
+    background-color: #383d41;
+}
+
+#incorrect {
+    color: red;
+    background-color: #383d41;
+}
+
+form {
+    text-align: center;
+}
+fieldset {
+    border: 3px solid black;
+    background-color: darkgrey;
+}
+legend {
+    color: darkmagenta;
+}
+input {
+    margin: 0 0 10px 0;
+    padding: 3px;
+}
+
+#correct {
+    color: greenyellow;
+}
+#created {
+    width: 150px;
+    border: 1px solid black;
+}
+input {
+    border: 1px solid yellow;
+}
+
+input:focus {
+    color: purple;
+}
+
+#created:hover {
+    background-color: greenyellow;
+}

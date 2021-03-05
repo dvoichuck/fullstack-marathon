@@ -1,0 +1,78 @@
+.chckbox {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+body {
+    font-family: Source Sans Pro, serif;
+}
+
+h1 {
+    color: rgb(228, 116, 137);
+    padding-left: 20px;
+}
+
+#header2 {
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+    width: 100%;
+}
+
+label {
+    padding: 10px;
+}
+
+.word_opts {
+    width: 100px;
+    height: 24px;
+    color: grey;
+    border: 1px solid grey;
+    vertical-align: -15px;
+    background: white;
+    border-radius: 30px;
+    transition: 0.2s;
+    position: relative;
+    padding: 10px 10px 10px 10px;
+}
+
+label input[type="checkbox"]:checked + .word_opts{
+    background: rgb(32, 41, 79);
+    color: white;
+}
+
+
+label input[type="checkbox"]:checked + .word_opts:after {
+    content: '\2713';
+    background: rgb(32, 41, 79);
+    color: white;
+}
+
+#main_div {
+    width: 95%;
+}
+
+#name-email {
+    width: 100%;
+    display: flex;
+    flex: 1 1;
+}
+
+.information {
+    vertical-align: -45px;
+    border: none;
+    border-bottom: 1px solid grey;
+    margin: 20px 20px 20px 20px;
+    width: 100%;
+}
+
+button {
+    background-color: rgb(228, 116, 137);
+    height: 3em;
+    color: white;
+    vertical-align: -30px;
+    border: none;
+    margin-left: 20px;
+    width: 100%;
+}
